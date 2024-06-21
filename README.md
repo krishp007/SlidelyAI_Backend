@@ -36,9 +36,9 @@ This is the backend server for managing submissions, built using Node.js and Exp
     }
     ```
 
-4. Start the server:
+4. Start the server, open bash terminal and head over to your backend directory and write this code
     ```sh
-    npm start
+    npx ts-node src/server.ts
     ```
     The server will be running at `http://localhost:3000`.
 
