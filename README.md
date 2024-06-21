@@ -58,11 +58,3 @@ This is the backend server for managing submissions, built using Node.js and Exp
 - **GET /read?index={index}**: Read a submission by index.
 - **GET /total**: Get the total number of submissions.
 
-## Contributing
-Please submit issues and pull requests for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
-
-## Contact
-For any inquiries or questions, please contact [Your Name] at [Your Email].
